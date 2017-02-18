@@ -1,0 +1,1 @@
+rofi -show run -width 1280 -color-window "#14161f, #14161f, #14161f" -color-normal "#14161f, #ED0000, #14161f, #ED0000, #14161f" -color-active "#14161f, #ED0000, #14161f, #268bd2, #14161f" -color-urgent "#14161f, #ED0000, #14161f, #dc322f, #14161f" -location 0 -lines 19 -bw 0 -padding 175 -separator-style none -opacity 80
