@@ -29,5 +29,5 @@ BLURTYPE="2x8" # 2.90s
 # Get the screenshot, add the blur and lock the screen with it
 $SCREENSHOT
 convert $IMAGE -blur $BLURTYPE $IMAGE
-i3lock -i $IMAGE
+i3lock -ui $IMAGE
 rm $IMAGE
